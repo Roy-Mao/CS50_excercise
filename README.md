@@ -28,7 +28,7 @@ Syllabus:
 
 #####Week 12 Exciting conclusion.
 
-
+########################################################################
 recover.c : a program that recovers .jpeg images from card.raw
 ```javascript
 ~/workspace/pset4/ (master) $ ./recover
