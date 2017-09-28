@@ -27,3 +27,10 @@ Syllabus:
 #####Week 11 Artificial intelligence, continued.
 
 #####Week 12 Exciting conclusion.
+
+
+recover.c : a program that recovers .jpeg images from card.raw
+```javascript
+~/workspace/pset4/ (master) $ ./recover
+```
+![Image of before and after](https://s29.postimg.org/whkiz0dlj/test.png)
