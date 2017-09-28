@@ -29,8 +29,40 @@ Syllabus:
 #####Week 12 Exciting conclusion.
 
 ########################################################################
+RECOVER::
 recover.c : a program that recovers .jpeg images from card.raw
 ```javascript
 ~/workspace/pset4/ (master) $ ./recover
 ```
 ![Image of before and after](https://s29.postimg.org/whkiz0dlj/test.png)
+########################################################################
+MARIO::
+mario.c : a program that recreates half-pyramid using hashes (#) for blocks.
+```javascript
+~/workspace/pset1/ (master) $ ./mario
+height: 8
+       ##
+      ###
+     ####
+    #####
+   ######
+  #######
+ ########
+#########
+```
+########################################################################
+VIGENERE::
+vigenere.c : a program to vigenere cipher a text
+```javascript
+~/workspace/pset2/ (master) $ ./vigenere bacon
+Meet me at the park at eleven am
+Negh zf av huf pcfx bt gzrwep oz
+```
+########################################################################
+WATER::
+water.c : a program to convert shower's length (in minutes) to equivalent water bottles
+```javascript
+~/workspace/pset1/ (master) $ ./water
+minutes: 10
+bottles: 120
+########################################################################
